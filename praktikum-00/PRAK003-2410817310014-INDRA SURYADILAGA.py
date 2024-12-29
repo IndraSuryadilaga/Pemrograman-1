@@ -1,0 +1,1 @@
+print(r"Andi Berkata “Saya Pasti Bisa”")
